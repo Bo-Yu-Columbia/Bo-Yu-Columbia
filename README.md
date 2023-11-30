@@ -9,7 +9,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/bo-yu-cu/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://Bo-Yu-Columbia.github.io/"><img src="https://img.shields.io/badge/Iris1e27-Blog-blue" alt="Blog Badge"></a>
+  <a href="https://Bo-Yu-Columbia.github.io/"><img src="https://img.shields.io/badge/Bo-HomePage-blue" alt="Blog Badge"></a>
   <img src="https://komarev.com/ghpvc/?username=Bo-Yu-Columbia&style=flat-square&color=blue" alt=""/>
 </div>
 
