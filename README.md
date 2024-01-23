@@ -16,7 +16,7 @@
 ## 📊 My Stats :
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bo-Yu-Columbia)](https://git.io/streak-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iris1e27&layout=donut)
 
 
 
