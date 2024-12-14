@@ -3,8 +3,8 @@
 
 ## ✨ About Me :
 
-- 😊 I'm a master student @ColumbiaEngineering.
-- 🤔 I'm currently seeking a full time position in tech.
+- 😊 I'm a master graduate from ColumbiaEngineering.
+-  Full stack Data Science/ Engineering.
 
 
 <div>
